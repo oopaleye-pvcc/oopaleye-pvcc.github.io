@@ -1,0 +1,2 @@
+red orange blue green yellow purple indigo violet fuschia brown 
+cyan lime black white pink teal 
